@@ -1,4 +1,7 @@
 ## Интернет-магазин с CRUD логикой и реализацией ролей
+## Стэк:
+1. Фронт: Nextjs, Tailwindcss, zustand, swr, react-hook-form
+2. Бэк: json-server, jwt
 
 Данные для админа:
 почта: admin@example.com
