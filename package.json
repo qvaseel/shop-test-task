@@ -3,8 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
-		"init": "npm i && cd next && npm install && cd ../react && npm install && cd ../server && npm install",
-		"react": "concurrently \"cd server && npm run start\" \"cd react && npm run dev\"",
+		"init": "npm i && cd next && npm install && cd ../server && npm install",
 		"next": "concurrently \"cd server && npm run start\" \"cd next && npm run dev\""
 	},
 	"author": "",
